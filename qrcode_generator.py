@@ -1,6 +1,6 @@
 import qrcode
 # URL you want to encode
-url = "https://admission-ml.streamlit.app/"
+url = "https://admissions-ml.streamlit.app/"
 
 # Create QR code object
 qr = qrcode.QRCode(
